@@ -1,6 +1,6 @@
 # Hi there, I'm Mahnoor Akhtar 👋
 
-Welcome to my GitHub profile! I'm Associate Software Engineer, passionate about AI, Machine Learning, .
+Welcome to my GitHub profile! I'm Associate Software Engineer, passionate about AI.
 
 ## About Me
 
