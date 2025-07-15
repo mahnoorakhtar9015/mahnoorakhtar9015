@@ -1,34 +1,50 @@
-# Hi there, I'm Mahnoor Akhtar 👋
+# 👋 Hi there, I'm Mahnoor Akhtar
 
-Welcome to my GitHub profile! I'm Associate Software Engineer, passionate about AI.
+Welcome to my GitHub! I'm a Software Engineer, deeply passionate about building real-world solutions in AI, ML, and Generative AI.
 
-## About Me
+## 🚀 About Me
 
-- 🌱 I’m currently learning: Langchain, GPT-4 , Dalle-3 , Web Scrapping.
-- 💬 Ask me about: AI, Machine Learning, Deep Learning, Generative AI
-- 📫 How to reach me: https://www.linkedin.com/in/mahnoor-akhtar-9a03a1252/
-  
+- 🔭 Currently exploring: LangChain, GPT-4, DALL·E 3, AI agents, advanced web scraping.
+- 💬 Ask me about: AI/ML workflows, Language Models, Computer Vision, Generative AI, agents, cloud deployments.
+- 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/mahnoor-akhtar-9a03a1252/)
 
-## Skills
-Here are some of the technologies and tools I work with:
+## 🛠️ Technical Skills
 
-- Programming Languages: Python, C++/C , JavaScript, Html/CSS , Assembly Language
-- Frameworks and Libraries: Django, Flask, Langchain, Streamlit , TensorFlow, Keras
-- Tools and Platforms: Git, Docker,Jenkings , Kubernetes, AWS, Azure
+**Programming Languages:**  
+Python, C++, C#, MATLAB, SQL
 
+**AI & NLP:**  
+Multimodal models, AI Agents, Transformers, LSTMs, GPT, BERT, SpaCy, NLTK
 
-Thank you for visiting my profile! Feel free to check out my repositories and leave a star if you find something interesting.
-<!--
-**mahnoorakhtar9015/mahnoorakhtar9015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Vision:**  
+Image Processing, CNNs, YOLOv5, Face API, GANs, VAEs, Diffusion Models
 
-Here are some ideas to get you started:
+**Machine Learning:**  
+Supervised & Unsupervised Learning, Reinforcement Learning, Recommender Systems, Predictive Modeling, Time Series
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ML Tools & Frameworks:**  
+TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Pandas, NumPy, LangChain, LangGraph, LangSmith
+
+**Data Visualization:**  
+Matplotlib, Seaborn, Plotly, D3, Tableau
+
+**Web Frameworks:**  
+Flask, FastAPI, Quart
+
+**Databases:**  
+Azure Cosmos DB, MSSQL, FAISS, ChromaDB, Pinecone
+
+**Cloud & DevOps:**  
+AWS, Azure, Docker, Kubernetes
+
+**Development Practices:**  
+Agile, Microservices, GitHub, Azure DevOps, Git
+
+## 💡 Current Mission
+
+I'm on a mission to publicly document all my experiments — from AI fundamentals to advanced GenAI — as reproducible notebooks and projects.  
+Check out my **[AI/ML/GenAI experiments repo](#)** (coming soon!) for daily updates.
+
+---
+
+Thank you for visiting my profile! ⭐ If you find something useful or interesting, please leave a star or connect — let’s build and learn together.
