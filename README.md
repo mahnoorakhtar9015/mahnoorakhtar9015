@@ -4,9 +4,10 @@ Welcome to my GitHub! I'm a Software Engineer, deeply passionate about building 
 
 ## 🚀 About Me
 
-- 🔭 Currently exploring: LangChain, GPT-4, DALL·E 3, AI agents, advanced web scraping.
-- 💬 Ask me about: AI/ML workflows, Language Models, Computer Vision, Generative AI, agents, cloud deployments.
-- 🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/mahnoor-akhtar-9a03a1252/)
+👀 Areas of Interest: Data Science, AI, ML, NLP, Computer Vision, Reinforcement Learning
+🌱 Currently Learning: Advanced AI Algorithms
+💡 Open to Collaborations: On AI projects that drive innovation and enhance human well-being
+🌐 Connect with me: [LinkedIn](https://www.linkedin.com/in/mahnoor-akhtar-9a03a1252/)
 
 ## 🛠️ Technical Skills
 
