@@ -44,7 +44,7 @@ Agile, Microservices, GitHub, Azure DevOps, Git
 ## 💡 Current Mission
 
 I'm on a mission to publicly document all my experiments — from AI fundamentals to advanced GenAI — as reproducible notebooks and projects.  
-Check out my **[AI/ML/GenAI experiments repo](#)** (coming soon!) for daily updates.
+Check out my **[AI_Experiments_repo](#)** (coming soon!) for daily updates.
 
 ---
 
