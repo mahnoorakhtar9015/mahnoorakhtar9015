@@ -37,7 +37,7 @@ Flask, FastAPI, Quart
 Azure Cosmos DB, MSSQL, FAISS, ChromaDB, Pinecone
 
 **Cloud & DevOps:**  
-AWS, Azure, Docker, Kubernetes
+AWS, Microsoft Azure, Docker, Kubernetes
 
 **Development Practices:**  
 Agile, Microservices, GitHub, Azure DevOps, Git
@@ -45,7 +45,7 @@ Agile, Microservices, GitHub, Azure DevOps, Git
 ## 💡 Current Mission
 
 I'm on a mission to publicly document all my experiments — from AI fundamentals to advanced GenAI — as reproducible notebooks and projects.  
-Check out my **[AI_Experiments_repo](#)** (coming soon!) for daily updates.
+Check out my **[AI_Experiments_repo](#)** for daily updates.
 
 ---
 
